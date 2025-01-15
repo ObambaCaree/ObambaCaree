@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ObambaCaree
 - I code in html and Javascript
 - ME MAKEY GOOD WEBSITes
 
